@@ -1,0 +1,73 @@
+body{
+	background :black;
+}
+#box{
+
+	/* background: grey; */
+	height: 400px;
+	margin-top:100px;
+}
+
+
+#one , #two{
+	text-align: center;	
+	display: inline;
+}
+
+button , input{
+	text-align: center;
+}
+
+h1{
+
+	text-align: center;
+}
+
+#bton{
+
+	text-align: end;
+}
+
+.pink{
+
+	border: 1px solid black;
+}
+
+
+
+
+.container{
+
+	background-color : lemonchiffon ;
+	text-align: center;
+	margin-top: 50px;
+	max-width: 600px;
+	height : 600px ;
+}
+
+
+#buttonbox{
+	margin-top: 50px;
+
+}
+
+input{
+	margin-top: auto;
+	background-color: lightskyblue;
+
+	
+body h1.head{
+
+	font-size:400px ;
+	color : white;
+}
+
+.winner{
+
+	color:green;
+}
+
+.insideb{
+
+	background-color: black;
+}
